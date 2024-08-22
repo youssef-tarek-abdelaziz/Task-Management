@@ -8,6 +8,15 @@ Before you start, make sure you have the following installed on your system:
 
 - Docker
 - Git (optional, for cloning the repository)
+- Postgres running on port 5432
+- Database called study
+
+## Database setup 
+Run the script build_and_run_postgres.sh to setup the database
+``` bash
+./build_and_run_postgres.sh
+```
+
 
 ## Cloning the Repository
 
