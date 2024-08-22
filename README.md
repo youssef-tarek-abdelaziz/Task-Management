@@ -15,7 +15,7 @@ If you haven't cloned the repository yet, you can do so using the following comm
 
 ```bash
 git clone https://github.com/youssef-tarek-abdelaziz/Task-Management.git
-cd your-repo-name
+cd Task-Management
 ```
 
 ## Building the Docker Image
